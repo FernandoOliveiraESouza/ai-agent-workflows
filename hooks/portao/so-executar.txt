@@ -1,0 +1,5 @@
+# Repositórios que você só executa (ferramentas de terceiros): o portão nega qualquer escrita neles, de qualquer agente.
+# Uma pasta por linha; "#" comenta. Linhas que pegariam a casa inteira (~, /) ou pastas que não existem são ignoradas.
+# Para atualizar uma dessas ferramentas: tire a linha, atualize e ponha de volta.
+# Exemplo:
+# ~/tools/alguma-ferramenta-de-terceiros
